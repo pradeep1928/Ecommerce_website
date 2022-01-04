@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce_phone_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pradeep Padmukhi",
+  "license": "ISC",
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1",
+    "aos": "^2.3.4"
+  }
+}
